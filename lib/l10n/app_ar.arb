@@ -1,0 +1,19 @@
+{
+"app_title":"إسلامي",
+"sura_name":"اسم السورة",
+"number_sura":"عدد الآيات",
+"quran":"القرآن",
+"hadeth":"الحديث",
+"sebha":"السبحه",
+"radio":"الإذاعة",
+"hadeth_name":"الأحاديث",
+"number_tasbeh":"عدد التسبيحات",
+"name_radio":"إذاعة القرآن الكريم",
+"setting":"الاعدادات",
+"language": "اللغة",
+"english":"الانجليزي",
+"arabic":"العربي",
+"theme": "النمط",
+"dark":"مظلم",
+"light":"مضئ"
+}
